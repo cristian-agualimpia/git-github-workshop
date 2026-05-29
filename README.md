@@ -6,14 +6,14 @@ Bienvenidos a la sesión laboratorio de ramas y conflictos.
 
 ## Integrantes del grupo
 
-- Nombre 1
-- Nombre 2
+- Nombre 1: Cristian Agualimpia
+- Nombre 2: 
 
 ---
 
 ## Nombre del grupo
 
-Pendiente...
+rameritos1al
 
 ---
 
@@ -25,7 +25,7 @@ Pendiente...
 
 ## Tema favorito de la sesión
 
-Pendiente...
+el drama y los conflictos
 
 ---
 
@@ -37,4 +37,4 @@ Pendiente...
 
 ## Reflexión final
 
-Pendiente...
+La vida es beia
