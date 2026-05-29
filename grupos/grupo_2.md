@@ -6,32 +6,32 @@ Bienvenidos a la sesión laboratorio de ramas y conflictos.
 
 ## Integrantes del grupo
 
-- Nombre 1
-- Nombre 2
+- Samir Shebly
+- Dios
 
 ---
 
 ## Nombre del grupo
 
-Pendiente...
+Grupo 2 jaja
 
 ---
 
 ## Frase del grupo
 
-Pendiente...
+no se ole
 
 ---
 
 ## Tema favorito de la sesión
 
-Pendiente...
+CI/CD...
 
 ---
 
 ## Recurso útil
 
-Pendiente...
+MarkitDown...
 
 ---
 
