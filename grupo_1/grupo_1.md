@@ -6,7 +6,7 @@ Bienvenidos a la sesión laboratorio de ramas y conflictos.
 
 ## Integrantes del grupo
 
-- Nombre 1: Cristian Agualimpia
+- Nombre 1: 1RAScista
 - Nombre 2: 
 
 ---
